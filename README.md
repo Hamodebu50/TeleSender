@@ -19,6 +19,8 @@ Enter those values within the program, along with your bulk message to be sent a
 
 Make sure to use the Delay function. Sending 100s of messages all at once will get you throttled, if not flagged by Telegram for abuse. A delay of 60 seconds sounds reasonable. 
 
+The program automatically saves the API ID and API Hash to the directory its at, so you don't have to re-enter every time, and the code is one-time as well.
+
 Disclaimer: I'm not resposible for what you do with this program!
 
 This program is open-source, MIT licensed and everyone is free to fork, modify, change or build upon. All I ask is for credit :D. 
